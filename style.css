@@ -1,0 +1,17 @@
+    p {
+    text-align: left;
+    width: 300px;
+    height: auto;
+    padding: 20px;
+    border: 2px solid black;
+    margin-bottom: -16px;
+    border-top: 0px solid white;
+}
+
+.last{
+    border-bottom: 0px solid white;
+}
+
+p:hover {
+    background-color: red;
+}
